@@ -1,0 +1,14 @@
+{
+	"language": "en_EN",
+	"translation": {
+		"test": "Example",
+		"a": {
+			"b": {
+				"c": {
+					"d": "Some text"
+				},
+				"text": "What do you want from me?"
+			}
+		}
+	}
+}

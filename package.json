@@ -1,0 +1,26 @@
+{
+  "name": "rtranslation",
+  "version": "1.0.0",
+  "description": "Very simple translation module.",
+  "keywords": [
+    "translation",
+    "language",
+    "lang"
+  ],
+  "homepage": "http://regzand.pl/projects/rTranslation/",
+  "bugs": {
+    "url": "https://github.com/regzand/rTranslation/issues",
+    "email": "regzand@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Jan Golda (Regzand)",
+    "email": "regzand@gmail.com",
+    "url": "http://regzand.pl"
+  },
+  "main": "rTranslation",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/regzand/rTranslation.git"
+  }
+}
