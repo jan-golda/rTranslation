@@ -44,7 +44,7 @@ function rTranslation(options){
 
 			return ''+last;
 		}catch(e){
-			return this.options.wrong || key;
+			return _this.options.wrong || key;
 		}
 	}
 }
