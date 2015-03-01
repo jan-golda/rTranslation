@@ -1,6 +1,6 @@
 {
   "name": "rtranslation",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Very simple translation module.",
   "keywords": [
     "translation",
@@ -22,5 +22,8 @@
   "repository": {
     "type": "git",
     "url": "http://github.com/regzand/rTranslation.git"
+  },
+  "devDependencies": {
+    "async": "^0.9.0"
   }
 }

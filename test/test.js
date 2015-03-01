@@ -1,6 +1,6 @@
 var async = require('async');
 
-GLOBAL.lang = require("rtranslation")({
+GLOBAL.lang = require("../rTranslation")({
 	language: "pl_PL",
 	wrong: "undefined"
 });
