@@ -25,6 +25,7 @@ var options = {
 ### Loading translations
 ```js
 lang.loadTranslationFromFile(file, callback);
+lang.loadTranslationFromFileSync(file);
 lang.loadTranslation(language, object, callback);
 ```
 * __file__ - (String, required) path to file
